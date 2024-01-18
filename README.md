@@ -1,6 +1,6 @@
 # sort_by_extension
 
-## Français
+# Français
 
 # Trieur de Fichiers par Extension
 
@@ -19,7 +19,7 @@ Si vous souhaitez trier d'autres parties de votre ordinateur, veuillez modifier 
 
 _____________________________________________________________________________________________________
 
-## English
+# English
 
 # File Sorter by Extension
 
