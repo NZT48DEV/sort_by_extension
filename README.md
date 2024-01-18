@@ -42,6 +42,6 @@ The script uses `pathlib` to interact with the file system. It creates directori
 ## Modification
 If you want to sort other parts of your computer, please modify the following part: tri_dir = Path.home() / "Desktop".
 
-1. Download the file sort_by_extension_fr.py.
+1. Download the file sort_by_extension_en.py.
 2. Edit the file using your integrated development environment (IDE).
 3. Execute your script.
