@@ -18,7 +18,7 @@ Le script utilise `pathlib` pour interagir avec le système de fichiers. Il cré
 ## Modification
 Si vous souhaitez trier d'autres parties de votre ordinateur, veuillez modifier la partie suivante : `tri_dir = Path.home() / "Desktop"`.
 
-1. Télécharger le fichier sort_by_extension_fr.py
+1. Télécharger le fichier `sort_by_extension_fr.py`
 2. Editez le fichier avec votre environnement de développement intégré (IDE)
 3. Exécutez votre script
 
@@ -40,8 +40,8 @@ The script uses `pathlib` to interact with the file system. It creates directori
 3. Your desktop files will be sorted into appropriate directories.
 
 ## Modification
-If you want to sort other parts of your computer, please modify the following part: tri_dir = Path.home() / "Desktop".
+If you want to sort other parts of your computer, please modify the following part: `tri_dir = Path.home() / "Desktop"`.
 
-1. Download the file sort_by_extension_en.py.
+1. Download the file `sort_by_extension_en.py`.
 2. Edit the file using your integrated development environment (IDE).
 3. Execute your script.
