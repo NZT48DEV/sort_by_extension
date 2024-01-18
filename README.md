@@ -11,7 +11,7 @@ Ce script Python trie automatiquement les fichiers sur le bureau de l'utilisateu
 Le script utilise `pathlib` pour interagir avec le système de fichiers. Il crée des répertoires pour chaque catégorie d'extension et déplace les fichiers correspondants dans ces répertoires.
 
 ## Utilisation
-1. Télécharger le fichier sort_by_extension_fr.exe
+1. Télécharger le fichier `sort_by_extension_fr.exe`.
 2. Exécutez le fichier, en double cliquant sur le fichier exécutable `sort_by_extension_fr.exe`.
 3. Vos fichiers sur le bureau seront triés dans des répertoires appropriés.
 
@@ -35,7 +35,7 @@ This Python script automatically sorts files on the user's desktop based on thei
 The script uses `pathlib` to interact with the file system. It creates directories for each category of extension and moves the corresponding files into these directories.
 
 ## Usage 
-1. Download the file sort_by_extension_fr.exe.
+1. Download the file `sort_by_extension_fr.exe`.
 2. Run it by double-clicking the executable file `sort_by_extension_en.exe`.
 3. Your desktop files will be sorted into appropriate directories.
 
