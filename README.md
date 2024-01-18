@@ -1,4 +1,4 @@
-# sort_by_extension
+# sort_by_extension by NZT48DEV
 
 # Français
 
@@ -11,11 +11,16 @@ Ce script Python trie automatiquement les fichiers sur le bureau de l'utilisateu
 Le script utilise `pathlib` pour interagir avec le système de fichiers. Il crée des répertoires pour chaque catégorie d'extension et déplace les fichiers correspondants dans ces répertoires.
 
 ## Utilisation
-1. Placez le script sur votre ordinateur.
-2. Exécutez le script avec Python.
+1. Télécharger le fichier sort_by_extension_fr.exe
+2. Exécutez le en double cliquant sur le fichier exécutable
 3. Vos fichiers sur le bureau seront triés dans des répertoires appropriés.
 
+## Modification
 Si vous souhaitez trier d'autres parties de votre ordinateur, veuillez modifier la partie suivante : `tri_dir = Path.home() / "Desktop"`.
+
+1. Télécharger le fichier sort_by_extension_fr.py
+2. Editez le fichier avec votre environnement de développement intégré (IDE)
+3. Exécutez votre script
 
 _____________________________________________________________________________________________________
 
@@ -29,9 +34,14 @@ This Python script automatically sorts files on the user's desktop based on thei
 ## How It Works
 The script uses `pathlib` to interact with the file system. It creates directories for each category of extension and moves the corresponding files into these directories.
 
-## Usage
-1. Place the script on your computer.
-2. Run the script using Python.
-3. Your files on the desktop will be sorted into appropriate directories.
+## Usage 
+1. Download the file sort_by_extension_fr.exe.
+2. Run it by double-clicking the executable file.
+3. Your desktop files will be sorted into appropriate directories.
 
-If you wish to organize other parts of your computer, please modify the following section: `tri_dir = Path.home() / "Desktop"`.
+## Modification
+If you want to sort other parts of your computer, please modify the following part: tri_dir = Path.home() / "Desktop".
+
+1. Download the file sort_by_extension_fr.py.
+2. Edit the file using your integrated development environment (IDE).
+3. Execute your script.
