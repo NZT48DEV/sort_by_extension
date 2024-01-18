@@ -1,4 +1,4 @@
-# sort_by_extension by NZT48DEV
+# sort_by_extension - NZT48DEV
 
 # Français
 
