@@ -24,7 +24,7 @@ ________________________________________________________________________________
 # File Sorter by Extension
 
 ## Description
-This Python script automatically sorts files on the user's desktop based on their extension. It moves each file into a directory named after the file's extension category (e.g., "Sound", "Pictures", "Movies", etc.).
+This Python script automatically sorts files on the user's desktop based on their extension. It moves each file into a directory named after the file's extension category (e.g., "Sounds", "Pictures", "Movies", etc.).
 
 ## How It Works
 The script uses `pathlib` to interact with the file system. It creates directories for each category of extension and moves the corresponding files into these directories.
