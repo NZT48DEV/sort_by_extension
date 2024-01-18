@@ -53,7 +53,8 @@ dirs = {".aac": "Sounds",
         ".xlsx": "Text",
         ".xlsm": "Text",
         ".xml": "Text",
-        ".zip": "Archives"}
+        ".zip": "Archives",
+        ".lnk": "Shortcuts"}
 
 # Setting the working directory, here the user's Desktop
 tri_dir = Path.home() / "Desktop"
