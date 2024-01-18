@@ -53,7 +53,8 @@ dirs = {".aac": "Audio",
         ".xlsx": "Texte",
         ".xlsm": "Texte",
         ".xml": "Texte",
-        ".zip": "Archives"}
+        ".zip": "Archives"
+        ".lnk": "Raccourcis"}
 
 # Définition du répertoire de travail, ici le bureau (Desktop) de l'utilisateur (a modifier suivant l'endroit où vous voulez trier)
 tri_dir = Path.home() / "Desktop"
