@@ -12,7 +12,7 @@ Le script utilise `pathlib` pour interagir avec le système de fichiers. Il cré
 
 ## Utilisation
 1. Télécharger le fichier sort_by_extension_fr.exe
-2. Exécutez le en double cliquant sur le fichier exécutable
+2. Exécutez le fichier, en double cliquant sur le fichier exécutable (.exe).
 3. Vos fichiers sur le bureau seront triés dans des répertoires appropriés.
 
 ## Modification
